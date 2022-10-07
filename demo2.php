@@ -54,6 +54,16 @@ while($a>=1)
 
 
 //do while loop
+echo "<br>";
+$c = 5;
+do
+{
+	echo "The number is: $c";
+	echo "<br>";
+	$c--;
+}
+	while ($c >= 1);	
+	
 
 ?>
 
